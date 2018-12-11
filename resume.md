@@ -57,9 +57,9 @@ Courses
 =======
 
 
-|Dababase Systems \| CS 331 | 
-| :--- | --- | ---: |
-|- Focuses on database design, relational models, SQL, concurrency control, queryprocessing, and transaction management |
+### -[x]  Dababase Systems | CS 331 
+
+- Focuses on database design, relational models, SQL, concurrency control, queryprocessing, and transaction management |
 
 | Data Structures \| CS 300 |
 | :--- |
