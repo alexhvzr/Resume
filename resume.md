@@ -1,8 +1,8 @@
-# Resume 
-
-## Alex van Zuiden-Rylander
+Alex van Zuiden-Rylander
+========================
 ## Software Developer
-### Alexhvzr@gmail.com | linkedin.com/in/alexhvzr
+### Alexhvzr@gmail.com
+### linkedin.com/in/alexhvzr
  About me
  ========
 
@@ -13,11 +13,11 @@ meet goals and is passionate about learning new technologies and programming lan
 ========
 
 ## Natural Disaster Preparedness | October 2018 | NASA Space Apps Hackathon github.com/alexhvzr/nasa_disaster_ready
-- DesignedandDevelopedanandroidappfornaturaldisasterpreparedness
+- Designed and Developed an android app for natural disaster preparedness
 - Languages & Tools: Java,GoogleMapsAPI,AndroidStudio,AndroidEmulator
 - SpecificContributions: Developed Google API Integration,Built Navigation
 
-## Bellevue College Housing Database | December 2018github.com/alexhvzr/BellevueHousingDatabase
+## Bellevue College Housing Database | December 2018 github.com/alexhvzr/BellevueHousingDatabase
 - A database with role based permissions for students,alumni,and admin
 - Allows requests for housing applications and maintenance history
 - Ability to add and update residents from applicants
@@ -46,7 +46,7 @@ Technical Skills
 Education
 =========
 ### Cumulative GPA 3.56
-## University Of Washington 2018-2020
+## University Of Washington | 2018-2020
     Bachelors of Science in Computer Science and Software Engineering
 ## Bellevue College | 2016-2018
     Associates in Arts General Studies Graduated with Distinction
@@ -61,8 +61,7 @@ Courses
 - Further focus into data structure types and usage
 - Implemented VM Virtual Box
 
-### CS 211: 
-Object Oriented Programming
+### CS 211: Object Oriented Programming
 - Design of data structures, algorithms, and graphical user interfaces
 
 ### CS 210: Procedural Decomposition
@@ -74,3 +73,11 @@ Object Oriented Programming
 
 ### MATH 208: Linear Algebra
 - Used matrix methods and vectors to explore systems of linear equations, transformations, and presents theory of eigenvalues
+
+Experience
+==========
+### Lululemon | Educator
+#### Bellevue, WA | June 2015 – Present
+- Created and maintained client book to maximize customer satisfaction and sales
+- Team contributor during promotional events
+- Exceed sales goals regularly and formally acknowledged anda warded for achievements
