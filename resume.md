@@ -25,10 +25,10 @@ meet goals and is passionate about learning new technologies and programming lan
 - SpecificContributions: Developed full application
 
 ## Barcode Scanner | December 2018 github.com/alexhvzr/Hashing
-- A database with role based permissions for students,alumni,and admin
-- Allows requests for housing applications and maintenance history
-- Ability to add and update residents from applicants
-- Languages & Tools: Java,MySQL,IntelliJ,OracleVMVirtualBox
+- A program to read a file of UPC codes and item descriptions
+- Stores all the data into a binary search tree, hash table, and array
+- Displays search time in milliseconds and microseconds 
+- Languages & Tools: C++, Clion
 - SpecificContributions: Developed full application
 
 Technical Skills
