@@ -1,8 +1,10 @@
 Alex van Zuiden-Rylander
 ========================
 ## Software Developer
-### Alexhvzr@gmail.com
-### linkedin.com/in/alexhvzr
+[Email](Alexhvzr@gmail.com)
+| [LinkedIn](https://www.linkedin.com/in/alexhvzr/)
+| [GitHub](https://github.com/alexhvzr)
+
  About me
  ========
 
@@ -12,19 +14,19 @@ meet goals and is passionate about learning new technologies and programming lan
  Projects
 ========
 
-## Natural Disaster Preparedness | October 2018 | NASA Space Apps Hackathon github.com/alexhvzr/nasa_disaster_ready
+## [Natural Disaster Preparedness](https://github.com/alexhvzr/nasa_disaster_ready) | October 2018 | NASA Space Apps Hackathon 
 - Designed and Developed an android app for natural disaster preparedness
 - Languages & Tools: Java,GoogleMapsAPI,AndroidStudio,AndroidEmulator
 - SpecificContributions: Developed Google API Integration,Built Navigation
 
-## Bellevue College Housing Database | December 2018 github.com/alexhvzr/BellevueHousingDatabase
+## [Bellevue College Housing Database](https://github.com/alexhvzr/BellevueHousingDatabase) | December 2018 
 - A database with role based permissions for students,alumni,and admin
 - Allows requests for housing applications and maintenance history
 - Ability to add and update residents from applicants
 - Languages & Tools: Java,MySQL,IntelliJ,OracleVMVirtualBox
 - SpecificContributions: Developed full application
 
-## Barcode Scanner | December 2018 github.com/alexhvzr/Hashing
+## [Barcode Scanner](https://github.com/alexhvzr/Hashing) | December 2018 
 - A program to read a file of UPC codes and item descriptions
 - Stores all the data into a binary search tree, hash table, and array
 - Displays search time in milliseconds and microseconds 
@@ -54,25 +56,32 @@ Education
 Courses
 =======
 
-### CS 331: Dababase Systems
-- Focuses on database design, relational models, SQL, concurrency control, queryprocessing, and transaction management
 
-### CS 300: Data Structures
-- Further focus into data structure types and usage
-- Implemented VM Virtual Box
+|Dababase Systems \| CS 331 | 
+| :--- | --- | ---: |
+|- Focuses on database design, relational models, SQL, concurrency control, queryprocessing, and transaction management |
 
-### CS 211: Object Oriented Programming
-- Design of data structures, algorithms, and graphical user interfaces
+| Data Structures \| CS 300 |
+| :--- |
+|- Further focus into data structure types and usage |
+|- Implemented VM Virtual Box |
 
-### CS 210: Procedural Decomposition
-- Implementation of algorithms and modular language
+| Object Oriented Programming \| CS 211 |
+| :--- |
+|- Design of data structures, algorithms, and graphical user interfaces |
+
+| Procedural Decomposition \| CS 210 |
+| :--- |
+|- Implementation of algorithms and modular language
 
 
-### MATH 151, 152, 153, 254: Calculus 1-4
-- Extends the concepts of calculus to vector-valued functions and functions of several variables
+| Calculus 1-4 \| MATH 151, 152, 153, 254 |
+| :--- | 
+|- Extends the concepts of calculus to vector-valued functions and functions of several variables
 
-### MATH 208: Linear Algebra
-- Used matrix methods and vectors to explore systems of linear equations, transformations, and presents theory of eigenvalues
+| Linear Algebra \| MATH 208 |
+| :--- |
+|- Used matrix methods and vectors to explore systems of linear equations, transformations, and presents theory of eigenvalues
 
 Experience
 ==========
