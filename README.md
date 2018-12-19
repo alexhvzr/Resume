@@ -7,7 +7,6 @@ Alex van Zuiden-Rylander
 
  About me
 ========
-
 Self-disciplined computer science major who is determined to
 meet goals and is passionate about learning new technologies and programming languages. Excellent communicator who is capable of articulating complex content into language that is user friendly and easily implemented. Cultural competency to build rapport with a wide range of co-workers and clients.
 
@@ -15,7 +14,7 @@ meet goals and is passionate about learning new technologies and programming lan
 ========
 
 ## [Natural Disaster Preparedness](https://github.com/alexhvzr/nasa_disaster_ready) | October 2018 | NASA Space Apps Hackathon 
-* Designed and Developed an android app for natural disaster preparedness
+*  Designed and Developed an android app for natural disaster preparedness
 * Languages & Tools: Java,GoogleMapsAPI,AndroidStudio,AndroidEmulator
 * SpecificContributions: Developed Google API Integration,Built Navigation
 
